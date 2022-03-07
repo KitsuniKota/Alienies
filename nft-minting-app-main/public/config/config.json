@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd8327b1f0d141b13fa37ac1ac24899e485a846479940cd09536bc66869bc12f3",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xd8327b1f0d141b13fa37ac1ac24899e485a846479940cd09536bc66869bc12f3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alienies",
+  "SYMBOL": "ANFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/alienies-v2/",
+  "SHOW_BACKGROUND": true
+}
